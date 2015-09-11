@@ -1,0 +1,3 @@
+Pseudocode is good for when you want to write some code but you don't want to put in the real code. It makes it so that you can get the general idea down for what you want to code.
+It makes it a plan for what you want to code and how you want to code it. We will use it because we want to break the code down so it is not impossible to code what you want for your
+program.

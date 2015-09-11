@@ -1,0 +1,45 @@
+Begin
+	start (0,0)
+		turn 90 degrees
+		draw forward
+	back to start
+		turn 180 degrees
+		draw forward
+		turn 270 degrees
+		draw forward
+		turn 90 degrees
+		draw forward
+		turn 90 degrees
+		draw forward
+End
+
+Begin
+	start (7,0)
+	down 8
+	start (7,-4)
+	left 4
+	start (7,-4)
+	right 4
+End
+
+Begin
+	start (13, 0)
+	Do 4 times
+		draw forward
+		turn left 90 degrees
+End
+
+Begin
+	start (19, 0)
+		turn 90 degrees
+		draw forward
+	back to start
+		turn 180 degrees
+		draw forward
+End
+
+Begin
+	start (26, 0)
+		down 4
+	back to start
+			

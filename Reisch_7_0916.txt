@@ -1,0 +1,12 @@
+The three guiding rules for this class:
+-Tinker
+-Helping others helps you
+-No cellphones
+
+We have these guidlines in order to help ourselves when we encounter a problem in coding. When we show these in practice, we learn what we need to do (and what not to do). 
+
+The problem solving process is to (1) define the problem, (2) generate solutions, (3) decide the course of action, (4) implement the solution, and finally (5) evalute the solution.
+
+The underlying motivation for this process is to solve any and all problems in life in general (but for this class, mostly for coding).
+
+It relates to Perkins et al because of the Stoppers just give up while the Movers tinker and move on and suceed.

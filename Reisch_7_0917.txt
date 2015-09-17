@@ -1,0 +1,9 @@
+Five different Java types are:
+int: used for whole numbers, short for integer
+float: 32 bits, used for decimals
+short, long, double: 16, 64, 64 bit, also used for decimals
+Char: short for characters (ie: "A"), called letters, numbers, and punctuation
+string: collection of chars "90ej"
+boolean: true/false, on/off, 0/1
+Generally all are used for numbers, letters, and punctuation.
+

@@ -1,0 +1,3 @@
+I have only 3 missing, 8/26, 9/9, & 9/10. It is important to use the naming convention when naming files or else they will be lost forever. It's easier to search for a specific type
+rather than no type. You use git all * in order to copy in Linux or even an entire directory to the current directory. Then you push all of the information in order to get it all 
+in one place.

@@ -1,0 +1,6 @@
+The git steps that we will do everyday is:
+-pico (filename/Reisch_7_date)
+-git add *
+-git commit -m "Any text"
+-git push -u orgin master 
+This will be done everyday in Coputer Science AP!

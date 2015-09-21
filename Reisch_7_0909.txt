@@ -1,0 +1,6 @@
+Yesterday, we made a git repostiory by using the steps while taking notes. We will use this to keep all of our files in one location. The steps for making a git repository are:
+-git config --global user.name "Whatever name."
+-git config --global user.email email
+-git config --global core.editor nano
+-git init
+-git add remote orgin [https page]

@@ -17,3 +17,9 @@ Apache License- allows one to modify and use software and distribute different c
 others!
 EULA- an acronymn for End User License Agreement, ex: I agreed to the EULA!  
 Creative Commons- the common laws that creative makers have rights in their worksapache license, ex: My hand-made animation has creative commons.
+
+Where have you seen this license before? I have seen this license before in other programs that help with coding.
+What is it saying? It says that you can edit, share, and run this software.
+What implications does this license have for the author? For the user? This means that I can change it and the author can see different ideas that others have done- and opssibly implement it in a new version.
+When would you use this license? I would use this license when I want others to use my work to create things-- like photoshop or coding.
+When would you not use this license? When you have a finished game or something that is to be seen but not edited.

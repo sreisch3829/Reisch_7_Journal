@@ -1,0 +1,19 @@
+Copyright- the laws to protect creative works in all medias, ex: Copyright law applies to Star Wars
+Copyleft- the laws to allow creative works to be manipulated, ex: Copyleft law applies to parodies
+Fair Use- using something for educational, parody, and entertainment reasons, ex: Star Peace (a parody on Star Wars)
+Free Speech- the ability to speak without restraint, does not mean that people will listen to you, ex: I have an opinion!
+Free Software- programs you can modify and use, ex: Artweaver
+Freeware- programs that are free to download and use, ex: Artweaver
+Public Domain- works of art that can be used without copyright infringment, ex: Beethoven's work, generally anything over 100 years old
+File-sharing- to share a file with someone, whether that file is legal or illegal, ex: Email
+Piracy- to download something that usually costs money but is downloaded illegally and free, ex: Getting a "free" copy of Star Wars V
+Plagarism- to take a work of art and use it (intentionally or unintentionally) in another work of art without citing it, ex: Not citing a quote in an essay
+Infringment- to break copyright law is infringment, usually in your work, ex: You uploaded Star Wars V to your channel, that's copyright infringment
+Proprietary- the allowment of creative works to be used, ex: anything if the creator allows it
+Open Source- the code that is available to be used to be modified, ex: a class project in code
+GNU GPL License- a license that allows users to edit, share, and run a software, ex: I will edit a software!
+MIT License- a license that allows proprietary software use, ex: I can use this thing over and over!
+Apache License- allows one to modify and use software and distribute different copies with no royalties,  ex: This program has an Apache license so I can give my modified copy to 
+others!
+EULA- an acronymn for End User License Agreement, ex: I agreed to the EULA!  
+Creative Commons- the common laws that creative makers have rights in their worksapache license, ex: My hand-made animation has creative commons.

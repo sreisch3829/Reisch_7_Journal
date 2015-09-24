@@ -1,0 +1,5 @@
+Steve Ballmer called GPL a virus because he saw it as having no real purpose to the real life applications.
+
+The difference between open source and proprietary software is that open source is available to use for everyone while proprietary had more terms and conditions. 
+
+The differences between GPL and MIT license is MIT is more about reusing software while GPL is more about editing and running programs on said software.

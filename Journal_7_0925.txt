@@ -1,0 +1,10 @@
+Paid License- liscense that is paid
+Shareware- software that is shared between two people or more
+Trialware- software that is only available during its trial
+Ad-ware- a software that helps generate money from ad
+Crippleware- being able to use software until you want to save (then you need a registration key)
+Freemium- a program or software that is free but additional features cost money
+FreeWare (vs Free-OpenSource)- Free-Opensource can be distributed everywhere but Freeware is free but has no redistribution allowed
+Richard Stallman- a software freedom activist, computer programmer, and helped create the GNU project
+Lawrence Lessig- founding board member of Creative Commons, and wants to reduce legal restrictions on copyright and trademark 
+Eben Moglen- computer programmer who avocates the Free Software Foundation

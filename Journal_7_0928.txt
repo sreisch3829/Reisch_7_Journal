@@ -1,0 +1,5 @@
+You count in Java by 0, 1, 2, 4, 8, 16, 32, 64.
+
+You can check is a number is divible by having (a number) % = modulo (what you want to divide by).
+
+You can track if a number has a divisor by if the number has a remainder.

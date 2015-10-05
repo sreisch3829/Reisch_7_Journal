@@ -1,0 +1,2 @@
+Code commands are comments left by past you- left to inform future you about what you were planning. It compiles all of the requirements into one place when you see the requirements.
+It helps with planning while you are working on the code.

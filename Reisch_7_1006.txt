@@ -1,0 +1,7 @@
+Methods are smaller programs that are used in the main program, generally booleans are used to notify this.
+
+Classes are a way to organize your programs when coding, in order to get bigger or smaller.
+
+An instance is when you create a variable in the program.
+
+Class methods are methods that are put in the class for organization.

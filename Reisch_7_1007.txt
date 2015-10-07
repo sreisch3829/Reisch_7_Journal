@@ -1,0 +1,5 @@
+A Java class is a way to organize your programs within the program. 
+
+A Java class for JavaFX might be a way to organize code and complex programs that regular Java cannot handle. 
+
+A method for class might be like boolean or in FX is importing the other mini-programs.

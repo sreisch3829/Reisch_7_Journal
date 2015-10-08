@@ -1,0 +1,9 @@
+My plans for the art project is to have multiple shapes with different colors for each- creating a rainbow.
+
+The methods I will use are to control the color, different shapes, and amount. 
+
+I might incorperate a for loop by having it to have several random colors for each shape.
+
+I might incorperate an if, else if, else statement by creating each new shape so there is an equal amount. 
+
+The math I might use is geometry, in order to make sure that all my shapes will do as I manipulate them.

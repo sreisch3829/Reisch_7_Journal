@@ -1,0 +1,10 @@
+1. I am almost done with my methods, I just have to see if I can get the for loop running the way I want it to.
+2. Everyday, I went into my program, changing little things like color to bigger things like a for loop. My 
+thoughts were originally to create my cat but now I'm thinking otherwise. 
+3. The art method code was 
+4. I saw the sample code on github, and it was intresting because it created some intresting art.
+5. private void drawRedSquares(GraphicsContext rsqs) {
+for ------
+rsqs.setFill(Color.FIREBRICK);
+rsqs.fillRect(30,30,30,30);}
+

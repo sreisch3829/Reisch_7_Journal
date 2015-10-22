@@ -1,0 +1,5 @@
+The purpose of the code art that I am creating is to show my skill in coding and what the limits of my skills are with the knowledge I have. 
+Code art will be the first step to more complex things that we will envitably start to code.
+
+The purpose of creating art with code to learn is so that we can tweak it with the colors to get something more asthethically pleasing and have a clear idea for what we want.
+It gives us a way to visually see what we are doing without it being overly complex- to see the littlest of differences with ease.

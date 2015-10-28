@@ -1,0 +1,5 @@
+My guessing game is almost a game! It has most of the components but it is not quite finished but it is a game in the sense that the player can interact
+and do different things with the enviroment.
+
+To make the game better, it would have to be more interactive with different actions and more of a story perhaps or more of a puzzle element. 
+Right now it's just a game of chance, that can easily change.

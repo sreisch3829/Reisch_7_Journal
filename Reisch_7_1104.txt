@@ -1,0 +1,9 @@
+1. A method is a boolean that has a little program inside of it.
+
+2. I used one to encompass whether the game would play or not, and used another to attempt to close 
+the game, which didn't work as well.
+
+3. A while loop is a way to have something repeat until it is false or complete.
+
+4. I used a while loop to have a way to stop the program, a boolean to keep everything neat and tidy,
+and the counter is used to tell the user how many tries it took.  

@@ -1,0 +1,4 @@
+1. Strings are composed of letters, numbers, and other characters like spaces or periods.
+2. They are good for asking what the user wants, or telling the user things.
+3. String methods are a way to ask what the user wants from the computer.
+4. We identify string methods by seeing the word String before the rest of a code for that particular line.

@@ -1,0 +1,6 @@
+1. I am mostly done with my dot file- I'm mostly adding a stylistic appeal to the rest of my map.
+2. I have all of the options laid out, all I want is to color code some of the different options to 
+how nesscessary it is.
+3. My biggest challenge is that looping around back to a certain point, but the other parts should be 
+relatively smooth to create.
+4. I don't have much experience with looping back as I would like. 

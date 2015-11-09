@@ -1,0 +1,33 @@
+digraph Stormy_game {
+
+A [label="You are in a room"]
+B [label="Inspect room"]
+C [label="Inspect box"]
+D [label="Inspect lock"]
+E [label="Open box"]
+F [label="Four chemical vials sit along a letter"]
+G [label="Inspect chemicals"]
+H [label="Inspect letter"]
+I [label="Two of the vials seem to hold nothing. The other who have numbers on them"]\n
+J [label="Inspect numbers"]
+K [label="The first one in a yellow label says 1.01. The other one in a green label says 14.01."]\n
+L [label="The letter reads: OHNO"]
+M [label="Insert code"]
+N [label="Code is false: keep door closed"]
+O [label="Code is true: open door"]
+P [label="Lose game"]
+Q [label="Win game"]
+
+
+A -> B
+B -> C
+B -> D
+C -> E
+E -> F
+F -> G
+F -> H
+G -> I
+I -> H
+K -> H
+
+}

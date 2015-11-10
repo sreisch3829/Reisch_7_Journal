@@ -1,0 +1,6 @@
+1. In my game, I can track what challenges the player has solved by making the while loop based 
+on the challenges that the player will face, therefore it can be called true when they complete it.
+2. I can track HP with a counter and an if statement, by using the if statement to tell when/why 
+they lose/gain HP and a counter to keep track and show what it is currently.
+3. For items, I'm not as sure for what I'll do, but maybe it will be a set inventory that's the same 
+until changed by the user? I'm not quite sure yet. 

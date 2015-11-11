@@ -1,0 +1,7 @@
+1. In my game the player must solve the puzzle in a room, where they will find the numbers on a keypad. They must be able to
+deduce that the numbers on the vials are equal to the masses of certain elements, which have a certain number of protons. 
+They can enter the number in the right order by understanding what the elements stand for.
+2. I can track whether they have been solved or not by having a while loop when they input the numbers and an if 
+statement to see if the number is true to the right answer. 
+3. I will be using scanners, if statements, booleans, that will be called answer# that will track how many different answers
+there are for my game.

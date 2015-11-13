@@ -1,0 +1,5 @@
+1. I will use while loops to help loop the game when you get the code wrong, 
+or to go back to a certain point in the code. This allows the user to have 
+more than one shot at getting the code right.
+2. I will use methods in my game to track if the player has gotten the code 
+correctly, so I can end the game.

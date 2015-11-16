@@ -1,0 +1,5 @@
+1. I will use methods in my game to be able to control and be able to tell what the player has done. This will 
+help me dertermine if the player had finished the puzzle or not. This will help determine if the player loses
+or not-- a vital part in my game. Another part it would be used is determining where the player wants to go
+and being able to manipulate it better.
+ 

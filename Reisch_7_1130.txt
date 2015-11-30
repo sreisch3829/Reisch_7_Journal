@@ -1,0 +1,6 @@
+I think I was pretty sucessful with my game, accomplishing most of the things 
+within the rubric while also providing a challenge.
+
+I did so by using methods and classes to be able to "remember" certain elements
+and implement them later in the game when it was necessary. I did what I was 
+comfortable with but also took some risks in tinkering with the code.

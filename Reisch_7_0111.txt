@@ -1,0 +1,6 @@
+I will create a space dungeon game, where you will traverse through three different
+areas in order to win, not sure what I will exactly for the plot.
+
+
+The challenges I will face is making the enemies actually fight/do damage to the 
+character but I have an idea on how it will most likely work.

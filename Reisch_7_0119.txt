@@ -1,0 +1,12 @@
+I created a game that is in space, where you have to get past some enemies in each section in order to 
+get to the objective- a spaceship.
+
+I solved some problems with getting the game and map to work- and I have attempted to work the ai for
+the the enemies, but I have some trouble currently.
+
+I was able to create the spritesheet pretty quickly- in two minutes or so, and the map I was tinkering 
+around with in order to get it working the way I wanted it to. I finished the spiritesheet before and 
+the map after the winter break from some issues I was facing.
+
+I was not able to meet the timeline, just due to how much I was stuck with certain elements of the game, 
+but the game is testable.

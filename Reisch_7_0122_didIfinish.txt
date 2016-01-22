@@ -1,0 +1,4 @@
+I was able to create a majority of my game in the time allotted, as I have the
+very basic form of a game. If my enemies were working, I would think of it as
+a decent game. Sadly, I struggle with coding sometimes, which prevented me 
+from doing what I needed to.

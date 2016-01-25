@@ -1,0 +1,7 @@
+I was able to make a working game where you can lose and win, but I was
+unable to make the enemies able to move or deal damage. My map, sprite, and
+walls were able to work (relatively) well.
+
+It was definately not the best game by any means, but it at least works to 
+and extent. I was able to solve some of my problems, after some assistance
+was given to me, I was able to get some things working.

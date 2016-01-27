@@ -1,0 +1,5 @@
+You can add an image by finding a place where you want to insert it- like in 
+the end of the game you just have to set it up so it shows correctly.
+
+The image is drawn in the render class- showing and setting up exactly what
+you want to see.

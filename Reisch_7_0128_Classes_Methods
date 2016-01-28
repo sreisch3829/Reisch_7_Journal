@@ -1,0 +1,3 @@
+That code is a method, because is is inside of a class called render. I know 
+this because render is labeled outside of the parenthesis rather than inside 
+it.

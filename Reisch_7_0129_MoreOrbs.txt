@@ -1,0 +1,7 @@
+A class constructor is something that can organize code more, specifically 
+the classes involved.
+
+There needs to be included a setter and a getter in order for certain elements
+to be remembered later in the code but not specified as public.
+
+Orbs should have methods like booleans and image.

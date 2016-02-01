@@ -1,0 +1,3 @@
+I will have to make the code more legible by making everything clean with comments
+that explain what I'm doing but not too many to overwhelm everything. I also 
+need to confront the problems of my code and consult someone about the issues.

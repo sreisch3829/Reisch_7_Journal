@@ -1,0 +1,3 @@
+I will be able to make the orb move in the direction I am facing by updating
+where my direction is, and make the orb fire in said directions. I'm not 
+completely sure how I will do that in code, but I will attempt to do it right.

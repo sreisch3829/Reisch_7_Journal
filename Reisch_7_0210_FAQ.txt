@@ -1,0 +1,14 @@
+1. My first problem was getting the orb made, but thankfully making it with
+Mr. Davis made me comprehend what was going on.
+2. My second problem was getting the orb to do damage to the skeletons, which 
+I may have solved.
+for (Enemy e : bonez) {
+                    if (magic8ball.hitbox.intersects(e.rect)) {
+                        e.isvisible = false;
+                    }
+                }
+3. My third problem was making the orb be blocked where the tiles are, but
+I'm not sure how to solve that problem yet. I assume that I have to change 
+things in blocked.
+4. My fourth problem is getting the orb to fire smoothly, though I have 
+set it up.

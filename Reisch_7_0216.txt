@@ -1,0 +1,5 @@
+An array was used in our Slick game to organize our blocking and how that worked with each block to check
+if it was blocked or not.
+
+Another use for an array in a different program would be for creating a need for specific items to met in
+order to proceed.

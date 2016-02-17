@@ -1,0 +1,18 @@
+Arrays are used for listing data and holding values to ask for it later.
+The code for an int array:
+int[] = "1, 2, 3";
+The code for a String array:
+String[] = ("Hello World!");
+The code for a boolean array:
+boolean[] = "t, s, y";
+The code for a double array:
+double[] = "5.5, 4.4, 3.3";
+You would change the first value of the int array to 42 by changing the number
+itself in the code.
+You would change the string to "Bob" in the string array by changing the words
+in the code itself.
+The code prints three lines that say dessert.
+It would print "rice pudding", "pan dulce", and "bunelos" but it's different
+because they are sequencial in the lines printed out.
+We would replace "bunuelos" with "apple pie" by changing the code itself. 
+

@@ -1,0 +1,18 @@
+This would set up the animations for a sprite across any x, 8 location (aka if you go up).
+
+It would be unrealistic to memorize Slick syntax because it will become negligible soon. We are learning
+to practice how to solve problems.
+
+An array is a list of values.
+Ex. 
+String [] berries = ["cherry, strawberry, blueberry"];
+
+An ArrayList is to hold one value (or multipule specific values) to one item replicated.
+
+Three useful arraylist methods I have identified are Sort(), Reverse(), and Clone().
+
+The difference between an array and an arraylist is that an array cannot be changed but an arraylist can
+be changed. Array holds different sets of numbers or values while an arraylist holds the same value 
+across multipule objects made.
+
+We could make a health counter for an avatar would be by using a counter, method, and an arraylist.  

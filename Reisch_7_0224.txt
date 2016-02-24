@@ -1,0 +1,21 @@
+A class is a different section of code that runs like a program of its own.
+
+public class Rat {
+public Rat brown, gray, black, white, tawny;
+
+brown = new Rat(42, 42);
+gray = new Rat (5, 5);
+black = new Rat (10, 10);
+white = new Rat (7, 30);
+tawny = new Rat (60, 20);
+
+}
+
+Declaration is placed in the overall program (if you're using it outside of the class,
+anyways).
+
+Initialization is placed in the init class.
+
+int Rats = new int ["42, 42", "5, 5", "10, 10", "7, 30", "60, 20"]
+
+

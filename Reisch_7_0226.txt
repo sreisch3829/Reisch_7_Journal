@@ -1,0 +1,5 @@
+The code below creates a game where you have to get four Xs in a row.
+
+I would change what the program prints and change it from . to x.
+
+I could use this to make a five in a row game by adding another X map.

@@ -1,0 +1,14 @@
+We make a class by declaring it:
+public static Class {}
+
+This is not a class constructor.
+
+We make classes with values by creating values we need like coordinates, size, or speed. 
+We make a class constructor by setting these values and using them.
+
+A getter is a small program that retrieves values code from a class.
+A setter is a small program that sets values within a class.
+
+In an array of breakfast we would have eggs, bacon, pancakes, waffles, toast. You
+You would create one by doing
+String breakfast [] = "Eggs", "Bacon", "Pancakes", "Waffles", "Toast";

@@ -1,0 +1,18 @@
+I have noticed that it is similar with various coding like loops and if 
+statements. It is different as it works with physical objects as opposed to just code. It
+is a bit straightforward, with what you have to assign but the hard part is 
+making the objects work fully.
+
+I have made so far adaptations to include more of an input from the player.
+
+A circuit must have a power source to a computer and code in order to run properly.
+
+Programs are compiled with Arduino by sending the code in a little package.
+
+The projects we have completed include working to circuit 14. We have made
+LED lights light up, both with buttons and with a potentiometer. We have made 
+sounds activate and play music. We have also made a temperature sensor work.
+
+The project I would make is a true/false questionare and the code adaptions 
+we would make is the differences in having certain lights light up with one
+sound.

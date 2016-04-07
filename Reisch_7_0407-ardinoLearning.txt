@@ -1,0 +1,13 @@
+1. I have learned so far that CS is difficult when you smash code together. It's 
+hard to tell where you have to place all of the code, but with the internet it's 
+not that bad. It confuses me, but more experience will assist.
+
+2. I have also learned that CS is difficult because it's not the same as netbeans. 
+Where with netbeans I would be able to look back at old projects for any help, 
+this one is only with examples, which is better overall. It doesn't have the 
+same comfort, but it provides completely accurate code, as opposed to my bugy code. 
+
+3. I have finally learned that CS is difficult because it is a different program
+entirely with it having some different words. As they have different words, it
+is a little hard to see what terns are the same. But as we sift though the
+code, it's getting easier.

@@ -1,0 +1,14 @@
+We have sucessfully gotten all the code necesssary for the questionaire, and 
+finished the placement for all the equipment we need.
+
+We still need to finish the coding itself for the equipment to work properly 
+without an example code.
+
+We might be able to turn in a questionaire that lights up if you get a wrong or
+right answer for which button you press. Getting the buzzer to work may be on 
+Tuesday or so.
+
+We are changing code for a light and a buzzer to work togeter when a button 
+is pushed. 
+
+We have noted how to compile elements from the examples so far.

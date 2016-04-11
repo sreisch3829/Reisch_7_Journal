@@ -1,0 +1,16 @@
+An assembly is a way to program, like Java, C++, but more complicated. 
+
+An assembly is good for keeping coding simple and complete control over system
+hardware.
+
+Assembly is different than Java because it is a low level language and harder
+to understand and pick up than Java.
+
+The differences between high level and low level languages is that high level 
+is portable, less lines of code, and mantainance is easier.
+
+Java is high level, because it is portable, less difficult than learning Assembly
+and is less error prone.
+
+Assembly is low level, because it is not portable, more difficult than learning
+Java, and is more error prone. 

@@ -1,0 +1,26 @@
+We typed elf64 to execute the program in correlation with 64 bits. 
+We used ld to compile the code in turn.
+We did not have to use chmod to make sample executable because it was already
+programmed within the code to occur.
+lobal _start
+        section .text
+_start:
+        ; write(1, message, 18)
+        mov    rax, 1                   ; system call 1 is write
+        mov    rdi, 1                   ; file handle 1 is stdout
+        mov    rsi, message             ; adress of string to output
+        mov    rdx, 18                  ; number of bytes
+        syscall                         ; invoke operating system to do the wri$
+
+        ; exit(0)
+        mov    eax, 60                  ; system call 60 is exit
+        xor    rdi, rdi                 ; exit code 0
+        syscall                         ; invoke operating system to exit
+ message:
+        db      "My name is Stormy.", 10     ; note the newline at the end
+
+I had to change certain numeric values along with what I wanted to say.
+It is not quick and easy, it is long but you know everything your doing.
+Low level means that it is a more basic and layed out version to see all of your
+coding that you have out/
+

@@ -1,0 +1,7 @@
+They both have conditional jumps, (if negative, if zero). The difference is
+that in assembly is that you can assign what the jump is, while HRM already
+has it assigned for you.
+
+The differences is that assembly can compare specific values to another 
+specific value while HRM aviods that to make its puzzles more difficult for
+the player.

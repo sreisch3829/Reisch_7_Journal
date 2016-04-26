@@ -1,0 +1,16 @@
+1. private void cubed () {
+	int x = x;
+	int y = y;
+	x * x * x = y;
+	return y;
+	}
+2. void loop () {
+	pinMode(1, OUTPUT);
+	}
+3. public class student {
+	int grade; 
+	String name;
+	}
+4. I would create the lights to represent numbers so that entering a number, 
+you could recieve the triple of the light. (Aka, pressing light 3 would 
+activate light 9).

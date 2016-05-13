@@ -1,0 +1,27 @@
+public class Hero {
+	int health = 100;
+	int score = 0;
+	boolean weapon;
+	int dexterity = 10;
+	int perception = 20;
+	int level = 0;
+	int x = 0;
+	int y = 0;
+	int z = 0;
+	String symbol = '@';
+
+	 System.out.println ("What would you like the x coordinate to be? (Only "
+                + "numbers 0-9, please!)");
+        Scanner xcoordinate = new Scanner(System.in);
+        aXis = xcoordinate.nextInt();
+        System.out.println ("What would you like the y coordinate to be? (Only "               
+ + "numbers 0-9, please!)");
+        Scanner ycoordinate = new Scanner(System.in);
+        axYs = ycoordinate.nextInt();
+
+	
+EX:
+public Hero stormy;
+
+You would not initialize the hero in the class hero because then the hero 
+would not appear in the main class, and then wouldn't appear in the game.

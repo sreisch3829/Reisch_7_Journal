@@ -1,0 +1,24 @@
+Which is the x coordinate? The x coordinate is 42.
+
+Which is the y coordinate? The y coordinate is 66.
+
+Why? The way the computer programs makes it less than one.
+
+How does this happen? The y is registered first and then the x.
+
+#a- The computer will print 8888.
+
+#b- It prints the map while the map is less than j and i is equal to zero.
+
+#c- It prints a . except if there's an x. If j is more than the map length, then
+don't print 8888.
+
+#d- It prints the map while the map is more than j and i is not specified.
+
+You can use a while loop to stop the boolean under a certain specific condition(s).
+
+Static allows for a part of the code to be the same throughout the code.
+
+You could use an object to be able to express a certain values that you can't 
+otherwise- i.e. win and lose screens.
+

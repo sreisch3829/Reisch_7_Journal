@@ -1,0 +1,30 @@
+An array is a type of code used to be able to list a certain variable.
+
+One makes a simple array of Strings by using code in the one journal we did, 
+where the String is coded with numbers so you can call for specific words.
+
+The syntax for a 2-d array is using only two numbers to make the grid, 
+thus making it 2-d.
+
+The syntax for a 3-d array is using only three numbers to make the grid,
+thus making it 3-d.
+
+-
+
+The syntax for a while loop is:
+static boolean death = true;
+death = true;
+
+I would use while loops in my game because it's easier to code when things end
+or should stop occurring.
+
+I would call my game in main by stating the name of the class that it is in
+and listing it in order if I had any other classes to run.
+
+It is recommended to use .toLowerCase() with Scanner input because it makes it
+easier to check the answer against the necessary answer.
+
+I should use different methods when moving the protagonist and checking for
+intersections by coding it to where one method does one particular problem.
+
+The values I will pass across methods are

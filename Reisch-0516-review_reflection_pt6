@@ -1,0 +1,23 @@
+Casting is where you change one datatype to another. Up-casting is making the
+datatype bigger. Down-casting is making the datatype smaller.
+
+Up-casting:
+int j = 3;
+double twin;
+twin = j;
+
+Down-casting:
+double twin = 3.0;
+int j;
+twin = (int)j;
+
+Converting char to a String:
+char c = 'c';
+String sally;
+sally = "" + c;
+
+The range of values for byte is 
+char = -128 to 127
+int = -32,768 to 32,768
+short = -32,768 to 32,768
+long = -2,147,483,648 to 2,147,483,648.

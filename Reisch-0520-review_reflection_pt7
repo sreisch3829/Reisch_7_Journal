@@ -1,0 +1,23 @@
+1. public class Ogre () {
+	int ogrex;
+	int ogrey;
+}
+
+public void ogrex () {
+return ogrex;
+}
+
+public void ogrey () {
+return ogrey;
+}
+
+2. public Ogre bob, bill, bart;
+
+3. public void setOgrex () {
+ogrex = getOrgrex();
+}
+
+4. ogrex += 1; 
+
+5. public static Ogre [] enemies;
+new Ogre [3];
